@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ケロケ論リー。",
+  "base_artist": "泣き虫",
+  "createdAt": "2026-03-14T23:00:07.482900Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ケロケ論リー。",
+      "artist": "泣き虫",
+      "has_synced": false,
+      "path": "select/pl_01_ケロケ論リー。_泣き虫.txt"
+    }
+  ]
+}
